@@ -4,9 +4,9 @@ var express = require('express'),
     oauth2 = require('salesforce-oauth2'),
     Promise = require('promise');;
 
-var callbackUrl = "https://mehdirahcanvasdemo.herokuapp.com/callback",
-    consumerKey = "3MVG9A_f29uWoVQv37e8wuVT0KfIksy7Y6HhQjdbxzJM9GMzV3YDPDs.y_ZHlKBU.TMbNvXyNQEne.mFzry7P",
-    consumerSecret = "1463378115517446037";
+var callbackUrl = "https://peaceful-temple-82262.herokuapp.com/callback",
+    consumerKey = "3MVG9YDQS5WtC11ohwJgX.hgWow4yWuOj9JQYElS2UoDpGe7KjszkEeDoFlEG7KTYrOVicbU5umtvU92HQkWX",
+    consumerSecret = "1830883559063076415";
 
 var oPayload = '';
 
