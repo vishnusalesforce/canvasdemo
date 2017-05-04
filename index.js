@@ -4,7 +4,7 @@ var express = require('express'),
     oauth2 = require('salesforce-oauth2'),
     Promise = require('promise');;
 
-var callbackUrl = "https://peaceful-temple-82262.herokuapp.com",
+var callbackUrl = "https://peaceful-temple-82262.herokuapp.com/callback",
     consumerKey = "3MVG9YDQS5WtC11ohwJgX.hgWow4yWuOj9JQYElS2UoDpGe7KjszkEeDoFlEG7KTYrOVicbU5umtvU92HQkWX",
     consumerSecret = "1830883559063076415";
 
